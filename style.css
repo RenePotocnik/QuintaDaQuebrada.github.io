@@ -43,7 +43,6 @@ html::-webkit-scrollbar {
     top: 50%;
     width: 100%;
     transform: translate(0, -50%);
-    border: 1px red solid;
 }
 h1 {
     font-family: 'Croissant One', cursive;
