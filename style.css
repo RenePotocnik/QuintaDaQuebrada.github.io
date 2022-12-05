@@ -74,6 +74,9 @@ h3 {
     text-shadow: 3px 7px 10px rgba(0, 0, 0, 0.25);
     padding-top: 20px;
 }
+h4 {
+    padding-top: 1em;
+}
 .text {
     text-align: justify;
 }
