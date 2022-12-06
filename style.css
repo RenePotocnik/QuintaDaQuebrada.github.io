@@ -19,9 +19,10 @@ html::-webkit-scrollbar {
 }
 .nav-link,
 .navbar-brand {
-    font-weight: 900 !important;
+    font-weight: 600 !important;
     color: white !important;
-    -webkit-text-stroke: 1px grey;
+    /*-webkit-text-stroke: 1px grey;*/
+    text-shadow: 0 0 3px rgba(255, 255, 255, 1);
 }
 .languageSelection {
     height: 2em;
