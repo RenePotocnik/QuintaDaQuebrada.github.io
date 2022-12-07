@@ -130,7 +130,7 @@ iframe.maps {
     .right {
         text-align: left;
     }
-    .navigationBar, .nav-link {
+    .navigationBar, .nav-link, .navbar-brand {
         font-size: 2em; !important;
     }
 }
