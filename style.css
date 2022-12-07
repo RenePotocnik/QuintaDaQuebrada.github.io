@@ -127,4 +127,7 @@ iframe.maps {
     h3, .thirdTitile {
         font-size: 3em;
     }
+    .right {
+        text-align: left;
+    }
 }
